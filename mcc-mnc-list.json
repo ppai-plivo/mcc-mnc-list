@@ -403,9 +403,9 @@
     "mnc": "23",
     "brand": "Magenta",
     "operator": "T-Mobile Austria GmbH",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
-    "notes": "former T-Mobile"
+    "notes": "former T-Mobile; MNC withdrawn"
   },
   {
     "type": "National",
@@ -415,6 +415,18 @@
     "mnc": "24",
     "brand": null,
     "operator": "Smartel Services GmbH",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Austria",
+    "countryCode": "AT",
+    "mcc": "232",
+    "mnc": "25",
+    "brand": null,
+    "operator": "Holding Graz Kommunale Dienstleistungen GmbH",
     "status": "Unknown",
     "bands": "Unknown",
     "notes": null
@@ -536,7 +548,7 @@
     "brand": "Proximus",
     "operator": "Belgacom Mobile",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
     "notes": null
   },
   {
@@ -550,6 +562,18 @@
     "status": "Operational",
     "bands": "GSM-R",
     "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Belgium",
+    "countryCode": "BE",
+    "mcc": "206",
+    "mnc": "03",
+    "brand": null,
+    "operator": "Citymesh NV",
+    "status": "Operational",
+    "bands": "LTE 3500",
+    "notes": "private network"
   },
   {
     "type": "National",
@@ -593,11 +617,11 @@
     "countryCode": "BE",
     "mcc": "206",
     "mnc": "08",
-    "brand": null,
+    "brand": "VOO",
     "operator": "Nethys",
-    "status": "Not operational",
-    "bands": "Unknown",
-    "notes": "MNC withdrawn"
+    "status": "Operational",
+    "bands": "MVNO",
+    "notes": null
   },
   {
     "type": "National",
@@ -703,7 +727,7 @@
     "mnc": "33",
     "brand": null,
     "operator": "Ericsson NV",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
     "notes": "Test network"
   },
@@ -730,6 +754,54 @@
     "status": "Not operational",
     "bands": "MVNO",
     "notes": "MNC withdrawn"
+  },
+  {
+    "type": "National",
+    "countryName": "Belgium",
+    "countryCode": "BE",
+    "mcc": "206",
+    "mnc": "71",
+    "brand": null,
+    "operator": "iSea NV",
+    "status": "Not operational",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Belgium",
+    "countryCode": "BE",
+    "mcc": "206",
+    "mnc": "72",
+    "brand": null,
+    "operator": "iSea NV",
+    "status": "Not operational",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Belgium",
+    "countryCode": "BE",
+    "mcc": "206",
+    "mnc": "73",
+    "brand": null,
+    "operator": "iSea NV",
+    "status": "Not operational",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Belgium",
+    "countryCode": "BE",
+    "mcc": "206",
+    "mnc": "74",
+    "brand": null,
+    "operator": "iSea NV",
+    "status": "Not operational",
+    "bands": "Unknown",
+    "notes": null
   },
   {
     "type": "National",
@@ -1461,7 +1533,7 @@
     "operator": "Telia Danmark",
     "status": "Unknown",
     "bands": "Unknown",
-    "notes": null
+    "notes": "Test network"
   },
   {
     "type": "National",
@@ -1685,8 +1757,8 @@
     "countryCode": "FO",
     "mcc": "288",
     "mnc": "01",
-    "brand": "Faroese Telecom",
-    "operator": "Faroese Telecom",
+    "brand": "Føroya Tele",
+    "operator": "Føroya Tele",
     "status": "Operational",
     "bands": "GSM 900 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800",
     "notes": null
@@ -1698,7 +1770,7 @@
     "mcc": "288",
     "mnc": "02",
     "brand": "Hey",
-    "operator": "Vodafone Faroe Islands",
+    "operator": "Nema",
     "status": "Operational",
     "bands": "GSM 900 / UMTS 2100 / LTE 1800",
     "notes": "Former Kall, also uses MCC 274 MNC 02 (Iceland)"
@@ -1865,11 +1937,11 @@
     "countryCode": "FI",
     "mcc": "244",
     "mnc": "15",
-    "brand": "SAMK",
-    "operator": "Satakunnan ammattikorkeakoulu Oy",
-    "status": "Not operational",
-    "bands": "GSM 1800",
-    "notes": "Educational network of Satakunta University of Applied Sciences; MNC withdrawn"
+    "brand": null,
+    "operator": "Telit Wireless Solutions GmbH",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "Former educational network of Satakunta University of Applied Sciences"
   },
   {
     "type": "National",
@@ -1903,9 +1975,9 @@
     "mnc": "20",
     "brand": null,
     "operator": "Telia Finland Oyj",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "type": "National",
@@ -2010,10 +2082,10 @@
     "mcc": "244",
     "mnc": "29",
     "brand": null,
-    "operator": "SCNL Truphone",
-    "status": "Not operational",
-    "bands": "MVNO",
-    "notes": "MNC withdrawn"
+    "operator": "Teknologian tutkimuskeskus VTT Oy",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "Former SCNL Truphone; VTT Technical Research Centre of Finland"
   },
   {
     "type": "National",
@@ -2021,11 +2093,11 @@
     "countryCode": "FI",
     "mcc": "244",
     "mnc": "30",
-    "brand": "Vectone Mobile",
-    "operator": "Mundio Mobile Oy",
-    "status": "Not operational",
-    "bands": "MVNO",
-    "notes": "MNC withdrawn"
+    "brand": null,
+    "operator": "Teknologian tutkimuskeskus VTT Oy",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "Former Mundio Mobile Oy; VTT Technical Research Centre of Finland"
   },
   {
     "type": "National",
@@ -2033,11 +2105,11 @@
     "countryCode": "FI",
     "mcc": "244",
     "mnc": "31",
-    "brand": "Kuiri",
-    "operator": "Ukko Mobile Oy",
-    "status": "Not operational",
-    "bands": "MVNO",
-    "notes": "MNC withdrawn"
+    "brand": null,
+    "operator": "Teknologian tutkimuskeskus VTT Oy",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "Former Ukko Mobile Oy; VTT Technical Research Centre of Finland"
   },
   {
     "type": "National",
@@ -2200,6 +2272,42 @@
     "countryName": "Finland",
     "countryCode": "FI",
     "mcc": "244",
+    "mnc": "45",
+    "brand": null,
+    "operator": "Suomen Turvallisuusverkko Oy",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "Public safety network"
+  },
+  {
+    "type": "National",
+    "countryName": "Finland",
+    "countryCode": "FI",
+    "mcc": "244",
+    "mnc": "46",
+    "brand": null,
+    "operator": "Suomen Turvallisuusverkko Oy",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "Public safety network"
+  },
+  {
+    "type": "National",
+    "countryName": "Finland",
+    "countryCode": "FI",
+    "mcc": "244",
+    "mnc": "47",
+    "brand": null,
+    "operator": "Suomen Turvallisuusverkko Oy",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "Public safety network"
+  },
+  {
+    "type": "National",
+    "countryName": "Finland",
+    "countryCode": "FI",
+    "mcc": "244",
     "mnc": "50",
     "brand": null,
     "operator": "Aalto-korkeakoulusäätiö sr",
@@ -2338,6 +2446,18 @@
     "status": "Not operational",
     "bands": "Unknown",
     "notes": "MNC withdrawn"
+  },
+  {
+    "type": "National",
+    "countryName": "Finland",
+    "countryCode": "FI",
+    "mcc": "244",
+    "mnc": "99",
+    "brand": null,
+    "operator": "Oy L M Ericsson Ab",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
   },
   {
     "type": "National",
@@ -3908,7 +4028,7 @@
     "brand": "T-Mobile",
     "operator": "Magyar Telekom Plc",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+    "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
     "notes": "Former WESTEL, Westel 900; MNC has the same numerical value as the area code"
   },
   {
@@ -3930,7 +4050,7 @@
     "mcc": "216",
     "mnc": "71",
     "brand": "upc",
-    "operator": "UPC Hungary Ltd.",
+    "operator": "Vodafone Magyarország Zrt.",
     "status": "Operational",
     "bands": "MVNO",
     "notes": null
@@ -3943,7 +4063,7 @@
     "mnc": "99",
     "brand": "MAV GSM-R",
     "operator": "Magyar Államvasutak",
-    "status": "Planned",
+    "status": "Operational",
     "bands": "GSM-R 900",
     "notes": null
   },
@@ -3966,7 +4086,7 @@
     "mcc": "274",
     "mnc": "02",
     "brand": "Vodafone",
-    "operator": "Og fjarskipti hf",
+    "operator": "Sýn",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 2100 / LTE 800 / LTE 1800",
     "notes": "Former Islandssimi ehf"
@@ -3978,7 +4098,7 @@
     "mcc": "274",
     "mnc": "03",
     "brand": "Vodafone",
-    "operator": "Og fjarskipti hf",
+    "operator": "Sýn",
     "status": "Operational",
     "bands": "Unknown",
     "notes": "Former Islandssimi ehf"
@@ -4101,6 +4221,18 @@
     "operator": "Iceland Telecom",
     "status": "Unknown",
     "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Iceland",
+    "countryCode": "IS",
+    "mcc": "274",
+    "mnc": "91",
+    "brand": null,
+    "operator": "Neyðarlínan",
+    "status": "Operational",
+    "bands": "Tetra",
     "notes": null
   },
   {
@@ -4927,9 +5059,9 @@
     "mnc": "07",
     "brand": null,
     "operator": "First Mobile AG",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "MVNO",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "type": "National",
@@ -5095,6 +5227,18 @@
     "mnc": "11",
     "brand": null,
     "operator": "DATASIM OU",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Lithuania",
+    "countryCode": "LT",
+    "mcc": "246",
+    "mnc": "12",
+    "brand": null,
+    "operator": "Nord connect OU",
     "status": "Unknown",
     "bands": "Unknown",
     "notes": null
@@ -5972,7 +6116,7 @@
     "brand": "Telenor",
     "operator": "Telenor Norge AS",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600",
+    "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800 / LTE 2600 / 5G 3500",
     "notes": "UMTS to shut down 2020, GSM to shut down 2025"
   },
   {
@@ -6091,9 +6235,9 @@
     "mnc": "11",
     "brand": "SystemNet",
     "operator": "SystemNet AS",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Test",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "type": "National",
@@ -6163,9 +6307,9 @@
     "mnc": "22",
     "brand": null,
     "operator": "Altibox AS",
-    "status": "Not operational",
+    "status": "Unknown",
     "bands": "Unknown",
-    "notes": "Former Network Norway AS; MNC withdrawn"
+    "notes": "Former Network Norway AS;"
   },
   {
     "type": "National",
@@ -6321,7 +6465,7 @@
     "operator": "E-Telko Sp. z o.o.",
     "status": "Not operational",
     "bands": "Unknown",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "type": "National",
@@ -6353,11 +6497,11 @@
     "countryCode": "PL",
     "mcc": "260",
     "mnc": "11",
-    "brand": "Nordisk Polska",
-    "operator": "Nordisk Polska Sp. z o.o.",
+    "brand": "Plus",
+    "operator": "Polkomtel Sp. z o.o.",
     "status": "Operational",
     "bands": "CDMA2000 420",
-    "notes": null
+    "notes": "Former Nordisk Polska"
   },
   {
     "type": "National",
@@ -6463,9 +6607,9 @@
     "mnc": "20",
     "brand": null,
     "operator": "Wysyłaj SMS Polska Sp. z o.o.",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
-    "notes": "Former Mobile.Net Sp. z o.o."
+    "notes": "Former Mobile.Net Sp. z o.o.; MNC withdrawn"
   },
   {
     "type": "National",
@@ -6473,11 +6617,11 @@
     "countryCode": "PL",
     "mcc": "260",
     "mnc": "21",
-    "brand": "Exteri",
-    "operator": "Exteri Sp. z o.o.",
-    "status": "Not operational",
+    "brand": null,
+    "operator": "private networks",
+    "status": "Unknown",
     "bands": "Unknown",
-    "notes": "MNC withdrawn May 2014"
+    "notes": "Former Exteri Sp. z o.o. until May 2014; now used for several private networks with 4-digit MNC 21xx"
   },
   {
     "type": "National",
@@ -6485,11 +6629,11 @@
     "countryCode": "PL",
     "mcc": "260",
     "mnc": "22",
-    "brand": "Arcomm",
-    "operator": "Arcomm Sp. z o.o.",
-    "status": "Not operational",
+    "brand": null,
+    "operator": "Twilio Ireland Limited",
+    "status": "Unknown",
     "bands": "Unknown",
-    "notes": "MNC withdrawn Nov 2018"
+    "notes": "Former Arcomm Sp. z o.o. until Nov 2018"
   },
   {
     "type": "National",
@@ -6775,9 +6919,9 @@
     "mnc": "46",
     "brand": null,
     "operator": "Terra Telekom Sp. z o.o.",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "type": "National",
@@ -6811,6 +6955,18 @@
     "mnc": "49",
     "brand": null,
     "operator": "Messagebird B.V.",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Poland",
+    "countryCode": "PL",
+    "mcc": "260",
+    "mnc": "97",
+    "brand": null,
+    "operator": "Politechnika Łódzka Uczelniane Centrum Informatyczne",
     "status": "Unknown",
     "bands": "Unknown",
     "notes": null
@@ -6979,6 +7135,18 @@
     "mnc": "91",
     "brand": "Vodafone",
     "operator": "Vodafone Portugal",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Portugal",
+    "countryCode": "PT",
+    "mcc": "268",
+    "mnc": "93",
+    "brand": "NOS",
+    "operator": "NOS Comunicações",
     "status": "Unknown",
     "bands": "Unknown",
     "notes": null
@@ -7831,9 +7999,9 @@
     "mnc": "07",
     "brand": null,
     "operator": "Towercom, a. s.",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "type": "National",
@@ -7841,10 +8009,10 @@
     "countryCode": "SK",
     "mcc": "231",
     "mnc": "08",
-    "brand": null,
+    "brand": "Unimobile",
     "operator": "Uniphone, s.r.o.",
-    "status": "Unknown",
-    "bands": "Unknown",
+    "status": "Testing",
+    "bands": "MVNO",
     "notes": "Former IPfon, s.r.o."
   },
   {
@@ -7953,6 +8121,18 @@
     "operator": "Tušmobil d.o.o.",
     "status": "Operational",
     "bands": "GSM 900 / GSM 1800 / UMTS 900 / UMTS 2100 / LTE 800 / LTE 1800",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Slovenia",
+    "countryCode": "SI",
+    "mcc": "293",
+    "mnc": "86",
+    "brand": null,
+    "operator": "ELEKTRO GORENJSKA, d.d",
+    "status": "Unknown",
+    "bands": "Unknown",
     "notes": null
   },
   {
@@ -8454,7 +8634,7 @@
     "mcc": "240",
     "mnc": "03",
     "brand": "Net 1",
-    "operator": "Netett Sverige AB",
+    "operator": "Teracom Mobil AB",
     "status": "Operational",
     "bands": "LTE 450",
     "notes": "Former Nordisk Mobiltelefon, Ice.net; CDMA 450 shut down"
@@ -8574,10 +8754,10 @@
     "mcc": "240",
     "mnc": "13",
     "brand": null,
-    "operator": "Alltele Företag Sverige AB",
+    "operator": "A3 Företag AB",
     "status": "Unknown",
     "bands": "Unknown",
-    "notes": null
+    "notes": "Former Alltele Företag Sverige AB"
   },
   {
     "type": "National",
@@ -8658,10 +8838,10 @@
     "mcc": "240",
     "mnc": "20",
     "brand": null,
-    "operator": "Wireless Maingate Messaging Services AB",
+    "operator": "Sierra Wireless Messaging AB",
     "status": "Operational",
-    "bands": "GSM",
-    "notes": null
+    "bands": "MVNO",
+    "notes": "Former Wireless Maingate Messaging Services AB"
   },
   {
     "type": "National",
@@ -8862,10 +9042,10 @@
     "mcc": "240",
     "mnc": "37",
     "brand": null,
-    "operator": "CLX Networks AB",
-    "status": "Operational",
+    "operator": "Sinch Sweden AB",
+    "status": "Unknown",
     "bands": "Unknown",
-    "notes": null
+    "notes": "Former CLX Networks AB"
   },
   {
     "type": "National",
@@ -8886,10 +9066,10 @@
     "mcc": "240",
     "mnc": "39",
     "brand": null,
-    "operator": "Borderlight AB",
+    "operator": "Primlight AB",
     "status": "Unknown",
     "bands": "Unknown",
-    "notes": "Former iCentrex Sweden AB"
+    "notes": "Former iCentrex Sweden AB, Borderlight AB"
   },
   {
     "type": "National",
@@ -9007,7 +9187,7 @@
     "mnc": "60",
     "brand": null,
     "operator": "Telefonaktiebolaget LM Ericsson",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
     "notes": "Test network; temporary license until 31 December 2019"
   },
@@ -9019,7 +9199,7 @@
     "mnc": "61",
     "brand": null,
     "operator": "MessageBird B.V.",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "Unknown",
     "notes": "temporary license until 3 November 2019"
   },
@@ -9333,7 +9513,7 @@
     "operator": "Fink Telecom Services",
     "status": "Operational",
     "bands": "Unknown",
-    "notes": null
+    "notes": "SMS relay only"
   },
   {
     "type": "National",
@@ -9749,11 +9929,11 @@
     "countryCode": "GB",
     "mcc": "234",
     "mnc": "14",
-    "brand": "Hay Systems Ltd",
-    "operator": "Hay Systems Ltd",
+    "brand": null,
+    "operator": "Link Mobility UK Ltd",
     "status": "Operational",
     "bands": "GSM 1800",
-    "notes": null
+    "notes": "Former Hay Systems Ltd"
   },
   {
     "type": "National",
@@ -10228,6 +10408,18 @@
     "countryName": "United Kingdom",
     "countryCode": "GB",
     "mcc": "234",
+    "mnc": "74",
+    "brand": null,
+    "operator": "Pareteum Europe B.V.",
+    "status": "Unknown",
+    "bands": "Unkown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "United Kingdom",
+    "countryCode": "GB",
+    "mcc": "234",
     "mnc": "76",
     "brand": "BT",
     "operator": "BT Group",
@@ -10363,9 +10555,9 @@
     "mnc": "88",
     "brand": null,
     "operator": "Telet Research (N.I.) Limited",
-    "status": "Unknown",
+    "status": "Not operational",
     "bands": "LTE",
-    "notes": null
+    "notes": "MNC withdrawn"
   },
   {
     "type": "National",
@@ -11107,7 +11299,7 @@
     "mnc": "560",
     "brand": "Lynx Mobility",
     "operator": "Lynx Mobility",
-    "status": "Operational",
+    "status": "Not operational",
     "bands": "CDMA / GSM",
     "notes": "Northern Quebec, Nunavut, Labrador"
   },
@@ -11551,6 +11743,42 @@
     "mnc": "991",
     "brand": null,
     "operator": "Halton Regional Police Service",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "For testing"
+  },
+  {
+    "type": "National",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "mcc": "302",
+    "mnc": "996",
+    "brand": null,
+    "operator": "Powertech Labs",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "For testing"
+  },
+  {
+    "type": "National",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "mcc": "302",
+    "mnc": "997",
+    "brand": null,
+    "operator": "Powertech Labs",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": "For testing"
+  },
+  {
+    "type": "National",
+    "countryName": "Canada",
+    "countryCode": "CA",
+    "mcc": "302",
+    "mnc": "998",
+    "brand": null,
+    "operator": "Powertech Labs",
     "status": "Unknown",
     "bands": "Unknown",
     "notes": "For testing"
@@ -16434,10 +16662,10 @@
     "mcc": "312",
     "mnc": "650",
     "brand": null,
-    "operator": "365 Wireless LLC",
+    "operator": "Brightlink",
     "status": "Unknown",
     "bands": "Unknown",
-    "notes": null
+    "notes": "Former 365 Wireless LLC"
   },
   {
     "type": "National",
@@ -17410,6 +17638,102 @@
     "status": "Operational",
     "bands": "Unknown",
     "notes": "Network for MTA / NYCTA"
+  },
+  {
+    "type": "National",
+    "countryName": "United States of America",
+    "countryCode": "US",
+    "mcc": "313",
+    "mnc": "570",
+    "brand": "Pioneer Cellular",
+    "operator": "Cellular Network Partnership",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "United States of America",
+    "countryCode": "US",
+    "mcc": "313",
+    "mnc": "580",
+    "brand": null,
+    "operator": "Telecall Telecommunications Corp.",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "United States of America",
+    "countryCode": "US",
+    "mcc": "313",
+    "mnc": "590",
+    "brand": "Southern LINC",
+    "operator": "Southern Communications Services, Inc.",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "United States of America",
+    "countryCode": "US",
+    "mcc": "313",
+    "mnc": "600",
+    "brand": null,
+    "operator": "ST Engineering iDirect",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "United States of America",
+    "countryCode": "US",
+    "mcc": "313",
+    "mnc": "610",
+    "brand": null,
+    "operator": "Crystal Automation Systems, Inc.",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "United States of America",
+    "countryCode": "US",
+    "mcc": "314",
+    "mnc": "010",
+    "brand": null,
+    "operator": "Boingo Wireless Inc.",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "United States of America",
+    "countryCode": "US",
+    "mcc": "314",
+    "mnc": "020",
+    "brand": null,
+    "operator": "Spectrum Wireless Holdings, LLC",
+    "status": "Unknown",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "United States of America",
+    "countryCode": "US",
+    "mcc": "314",
+    "mnc": "030",
+    "brand": null,
+    "operator": "Baicells Technologies North America Inc.",
+    "status": "Unknown",
+    "bands": "LTE",
+    "notes": null
   },
   {
     "type": "National",
@@ -22880,7 +23204,7 @@
     "brand": "Omantel",
     "operator": "Oman Telecommunications Company",
     "status": "Operational",
-    "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / TD-LTE 2300",
+    "bands": "GSM 900 / GSM 1800 / UMTS 900 / LTE 1800 / TD-LTE 2300 / 5G 3500",
     "notes": null
   },
   {
@@ -29370,10 +29694,10 @@
     "mcc": "640",
     "mnc": "01",
     "brand": null,
-    "operator": "Rural NetCo Limited",
-    "status": "Not operational",
+    "operator": "Shared Network Tanzania Limited",
+    "status": "Unknown",
     "bands": "UMTS 900",
-    "notes": "MNC withdrawn"
+    "notes": "Former Rural NetCo Limited"
   },
   {
     "type": "National",
@@ -30738,7 +31062,7 @@
     "mcc": "732",
     "mnc": "101",
     "brand": "Claro",
-    "operator": "COMCEL S.A.",
+    "operator": "Comunicacion Celular S.A. (Comcel)",
     "status": "Operational",
     "bands": "GSM 850 / GSM 1900 / UMTS 850 / UMTS 1900 / LTE 1700 / LTE 2600",
     "notes": null
@@ -30932,6 +31256,18 @@
     "brand": null,
     "operator": "Logistica Flash Colombia SAS",
     "status": "Operational",
+    "bands": "Unknown",
+    "notes": null
+  },
+  {
+    "type": "National",
+    "countryName": "Colombia",
+    "countryCode": "CO",
+    "mcc": "732",
+    "mnc": "666",
+    "brand": "Claro",
+    "operator": "Comunicacion Celular S.A. (Comcel)",
+    "status": "Unknown",
     "bands": "Unknown",
     "notes": null
   },
